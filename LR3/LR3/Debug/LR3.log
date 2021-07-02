@@ -1,0 +1,5 @@
+﻿  LR3.cpp
+C:\Users\mi\Desktop\LR\LR3\LR3\LR3.cpp(53): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mi\Desktop\LR\LR3\LR3\LR3.cpp(54): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mi\Desktop\LR\LR3\LR3\LR3.cpp(48): warning C4101: i: неиспользованная локальная переменная
+  LR3.vcxproj -> C:\Users\mi\Desktop\LR\LR3\Debug\LR3.exe
